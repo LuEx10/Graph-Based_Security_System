@@ -23,6 +23,6 @@ Raio Maximo: 12
 ```
 
 ## Authors
-- [Lucas Fiuza Garcia](https://github.com/LuEx10)
-- [Luis Felipe Marrote Ferreira](https://github.com/LuisFelipeMarrote)
-- [Thiago Loureiro Kosciuk](https://github.com/ThiagoKosciuk)
+- Lucas Fiuza Garcia - [GitHub](https://github.com/LuEx10)
+- Luis Felipe Marrote Ferreira - [GitHub](https://github.com/LuisFelipeMarrote)
+- Thiago Loureiro Kosciuk - [GitHub](https://github.com/ThiagoKosciuk)
